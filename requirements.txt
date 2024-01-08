@@ -274,8 +274,6 @@ rich
 rich-click
 rope 
 Rtree 
-ruamel-yaml-conda 
-ruamel.yaml 
 s3fs 
 safetensors 
 scikit-image 
