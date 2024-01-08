@@ -170,7 +170,6 @@ multipledispatch
 multiprocess 
 munkres
 mypy-extensions 
-navigator-updater 
 nbclassic 
 nbclient 
 nbconvert 
