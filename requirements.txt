@@ -5,7 +5,6 @@ aioitertools
 aiosignal 
 aiosqlite 
 alabaster 
-anaconda-anon-usage 
 anaconda-catalogs 
 anaconda-client 
 anaconda-cloud-auth 
